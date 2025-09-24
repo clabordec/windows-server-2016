@@ -112,18 +112,18 @@ This project outlines the installation and set up of Windows Server 2016 along w
 
 ### Based on the specs of your device, change the memory to a decent amount so that the VM will run smoothly
 <p>
-<img src="https://github.com/user-attachments/assets/c7d84a28-f3bd-46b9-9462-0f683fba072c" width="550" alt="Disk Sanitization Steps"/>
-</p>
+<img src="https://github.com/user-attachments/assets/37492e45-dcd8-4cf8-ac40-4ef5ba5804a9" width="550" alt="Disk Sanitization Steps"/>
+</p> 
 
-### Add the ISO file onto the VM
+### Add the ISO file onto the VM, then click `OK`
 <p>
-<img src="https://github.com/user-attachments/assets/ba3962db-f735-4b31-9852-d8fd28449bb8" width="550" alt="Disk Sanitization Steps"/>
-</p>
+<img src="https://github.com/user-attachments/assets/36d0e895-5e2c-4759-b54f-bb69aa7fe178" width="550" alt="Disk Sanitization Steps"/>
+</p> 
 
 ### Power up the VM
 <p>
-<img src="https://github.com/user-attachments/assets/125cba7f-1d0d-4e98-b404-d57591b840d6" width="550" alt="Disk Sanitization Steps"/>
-</p>
+<img src="https://github.com/user-attachments/assets/c33ca256-748f-4f2d-862c-23a028e7adfc" width="550" alt="Disk Sanitization Steps"/>
+</p> 
 
 ### Once the VM is powered on, click within the VM and rapidly press space bar or any key of your choosing until you see the following, then hit enter
 <p>
