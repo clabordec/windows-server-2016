@@ -15,7 +15,7 @@ This project outlines the installation and set up of Windows Server 2016 along w
 
 <h2>Operating Systems Used </h2>
 
-- Windows Server 2022
+- Windows Server 2016
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
