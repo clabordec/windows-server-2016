@@ -92,12 +92,12 @@ This project outlines the installation and set up of Windows Server 2016 along w
 
 ### Give the VM a name, and choose a file path
 <p>
-<img src="https://github.com/user-attachments/assets/6e01934c-051b-4e20-8c81-db10ce7c3e19" width="550" alt="Disk Sanitization Steps"/>
-</p>
+<img src="https://github.com/user-attachments/assets/6aa43cac-1226-414a-a4bf-3ec0d2b37a89" width="550" alt="Disk Sanitization Steps"/>
+</p> 
 
 ### Depending on your computer specs, assign the necessary amount of storage to the VM
 <p>
-<img src="https://github.com/user-attachments/assets/223cc538-d1ad-422e-b05b-3fb40a039749" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/31ed9d1c-7047-41a9-b67e-fc86c6bb2616" width="550" alt="Disk Sanitization Steps"/>
 </p>
 
 ### Click finish
