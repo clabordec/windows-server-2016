@@ -85,9 +85,9 @@ This project outlines the installation and set up of Windows Server 2016 along w
 <img src="https://github.com/user-attachments/assets/600e745f-0ce4-4dbc-abf7-bf99e481a92d" width="550" alt="Disk Sanitization Steps"/>
 </p>
 
-### Select `Microsoft Windows` as the OS, and `Windows Server 2022` as the version
+### Select `Microsoft Windows` as the OS, and `Windows Server 2016` as the version
 <p>
-<img src="https://github.com/user-attachments/assets/defaccac-cc49-4621-996c-f5e958ee37c9" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/7df34f80-20ad-4228-84f6-65b1dda50bff" width="550" alt="Disk Sanitization Steps"/>
 </p>
 
 ### Give the VM a name, and choose a file path
