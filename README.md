@@ -60,15 +60,15 @@ This project outlines the installation and set up of Windows Server 2016 along w
 <img src="https://github.com/user-attachments/assets/9df76665-fd60-4efd-900d-9f5e17768a74" width="550" alt="Disk Sanitization Steps"/>
 </p>
 
-### Click on the `64-bit edition` download, based on your network speed, this may take between 5-30 minutes
+### Click on the `64-bit edition` download, based on your network speed, this may take between 5-30 minutes based on your computer specs
 <p>
-<img src="https://github.com/user-attachments/assets/e02ed9d9-ed8c-4074-9173-873bc0eab825" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/dde6fcdf-6a2c-4e53-ae5e-57a6ce98da2d" width="550" alt="Disk Sanitization Steps"/>
 </p>
 
 ### Save the ISO in any location, in this case I have saved the ISO to the following location, I've also renamed the ISO image:
 <p>
-<img src="https://github.com/user-attachments/assets/1626d3d0-a726-4de8-80e9-73476cde68dd" width="550" alt="Disk Sanitization Steps"/>
-</p>
+<img src="https://github.com/user-attachments/assets/4e7c94c5-7322-4b84-b913-4bab2cfe4471" width="550" alt="Disk Sanitization Steps"/>
+</p> 
 
 ### Open VMware Workstation Pro and create a new VM
 <p>
