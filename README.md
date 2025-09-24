@@ -54,10 +54,10 @@ This project outlines the installation and set up of Windows Server 2016 along w
 
 <h1>Deployment and Configuration Steps</h1>
 
-## Installing and setting up Windows Server 2022
-### Go to a search browser and type on the following `windows server 2022 iso download` choose the highlighed link
+## Installing and setting up Windows Server 2016
+### Go to a search browser and type in the following `windows server 2016 iso download` choose the highlighed link
 <p>
-<img src="https://github.com/user-attachments/assets/8b4ec958-9a33-4684-ad29-01ca6860cf1c" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/9df76665-fd60-4efd-900d-9f5e17768a74" width="550" alt="Disk Sanitization Steps"/>
 </p>
 
 ### Click on the `64-bit edition` download, based on your network speed, this may take between 5-30 minutes
