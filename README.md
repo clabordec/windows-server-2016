@@ -19,7 +19,7 @@ This project outlines the installation and set up of Windows Server 2016 along w
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Install and set up Windows Server 2022 onto the VM
+- Install and set up Windows Server 2016 onto the VM
 - Add Active Directory Domain Services to the Server
 - Promote the server as the Domain Controller
 - Create Organizational Units (OUs) for different departmenets
