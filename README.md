@@ -22,32 +22,6 @@ This project outlines the installation and set up of Windows Server 2016 along w
 - Install and set up Windows Server 2016 onto the VM
 - Add Active Directory Domain Services to the Server
 - Promote the server as the Domain Controller
-- Create Organizational Units (OUs) for different departmenets
-    - USA
-    - Europe
-    - Asia
-- Create user accounts and groups within these OUs
-- Add the following groups: Users, Computers and Servers
-- Add the following departments
-    - Users
-        - IT
-        - Accounting
-        - HR
-        - Sales
-        - Management
-    - Computers
-        - IT
-        - Accounting
-        - HR
-        - Sales
-        - Management
-    - Servers
-        - IT
-        - Accounting
-        - HR
-        - Sales
-        - Management
-
 
 <br>
 
