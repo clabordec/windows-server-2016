@@ -12,7 +12,6 @@ This project outlines the installation and set up of Windows Server 2016 along w
 
 - VMware Workstation Pro (Virtual Machines/Compute)
 - Active Directory Domain Services
-- PowerShell
 
 <h2>Operating Systems Used </h2>
 
